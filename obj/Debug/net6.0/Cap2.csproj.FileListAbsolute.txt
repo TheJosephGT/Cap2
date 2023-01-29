@@ -1,0 +1,15 @@
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\bin\Debug\net6.0\Cap2.exe
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\bin\Debug\net6.0\Cap2.deps.json
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\bin\Debug\net6.0\Cap2.runtimeconfig.json
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\bin\Debug\net6.0\Cap2.dll
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\bin\Debug\net6.0\Cap2.pdb
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\obj\Debug\net6.0\Cap2.csproj.AssemblyReference.cache
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\obj\Debug\net6.0\Cap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\obj\Debug\net6.0\Cap2.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\obj\Debug\net6.0\Cap2.AssemblyInfo.cs
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\obj\Debug\net6.0\Cap2.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\obj\Debug\net6.0\Cap2.dll
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\obj\Debug\net6.0\refint\Cap2.dll
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\obj\Debug\net6.0\Cap2.pdb
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\obj\Debug\net6.0\Cap2.genruntimeconfig.cache
+C:\Users\josep\Desktop\8vo semestre\Aplicada1\Cap2\obj\Debug\net6.0\ref\Cap2.dll
